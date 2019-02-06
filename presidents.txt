@@ -1,6 +1,11 @@
 Washington
 Adams
 Jefferson
+Madison
+Monroe
+Adams, JQ
+Jackson
+Van Buren
 Garfield
 Roosevelt part 1
 Roosevelt part 2 the redux
